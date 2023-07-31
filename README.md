@@ -1,4 +1,5 @@
 [![build status](https://iffgit.fz-juelich.de/unger/jutil/badges/master/build.svg)](https://iffgit.fz-juelich.de/unger/jutil/commits/master) [![coverage report](https://iffgit.fz-juelich.de/unger/jutil/badges/master/coverage.svg)](https://iffgit.fz-juelich.de/unger/jutil/commits/master)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fopen-jutil%2Fjutil.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fopen-jutil%2Fjutil?ref=badge_shield)
 
 # JUTIL
 
@@ -61,3 +62,7 @@ a cost function with regularization. scripts/image_reconstruction.py shows
 how linear models can be used for a tomographic image reconstruction and denoising
 using different norms.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fopen-jutil%2Fjutil.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fopen-jutil%2Fjutil?ref=badge_large)
